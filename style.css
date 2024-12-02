@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    height: 60px;
+    background-color: #131921;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#category{
+    height: 35px;
+    width: 40px;
+}
+#searchbar{
+    display: flex;
+    align-items: center;
+    border:2px solid black;
+}
